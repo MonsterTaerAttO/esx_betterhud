@@ -1,5 +1,5 @@
 # esx_betterhud
-My ESX version for vrp_betterhud @DoubleT74
+My ESX version of vrp_betterhud @DoubleT74
 
 **Credits: マーモット#2533**
 
